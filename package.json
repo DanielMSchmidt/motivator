@@ -1,16 +1,14 @@
 {
-  "name": "react-native-redux-starter-kit",
-  "version": "1.0.0-rc",
-  "description": "Get started with React Native and Redux.",
+  "name": "motivator",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Motivate you and try to build up solid habits",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LeoLeBras/react-native-redux-starter-kit"
+    "url": "https://github.com/DanielMSchmidt/motivator"
   },
-  "author": "Léo LE BRAS <leo.lebrasf@gmail.com> (http://github.com/LeoLeBras)",
+  "author": "Daniel Schmidt <daniel.maximilian@gmx.net> (http://github.com/DanielMSchmidt)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LeoLeBras/react-native-redux-starter-kit/issues"
-  },
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh",
     "build": "react-native bundle",
